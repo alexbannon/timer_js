@@ -1,4 +1,4 @@
-/*var timer = {
+var timer = {
   editTimer: document.getElementById("timer"),
   startButton: document.getElementById("start"),
   resetButton: document.getElementById("reset"),
@@ -13,4 +13,3 @@ buttons.addEventListener("click", function(event) {
 })
 
 //    document.body.className = event.target.className;
-*/
